@@ -364,19 +364,19 @@ Electrical: Electrical system
 
 LowQualFinSF: Low quality finished square feet (all floors)
 
-GrLivArea: Above grade (ground) living area square feet
+GrLivArea: Above ground living area square feet
 
 BsmtFullBath: Basement full bathrooms
 
 BsmtHalfBath: Basement half bathrooms
 
-FullBath: Full bathrooms above grade
+FullBath: Full bathrooms above ground
 
-HalfBath: Half baths above grade
+HalfBath: Half baths above ground
 
-Bedroom: Bedrooms above grade (does NOT include basement bedrooms)
+Bedroom: Bedrooms above ground (does NOT include basement bedrooms)
 
-Kitchen: Kitchens above grade
+Kitchen: Kitchens above ground
 
 KitchenQual: Kitchen quality
 
@@ -386,7 +386,7 @@ KitchenQual: Kitchen quality
        Fa	Fair
        Po	Poor
        	
-TotRmsAbvGrd: Total rooms above grade (does not include bathrooms)
+TotRmsAbvGrd: Total rooms above ground (does not include bathrooms)
 
 Functional: Home functionality (Assume typical unless deductions are warranted)
 
