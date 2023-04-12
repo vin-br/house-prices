@@ -1,3 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IPython
+profile_default/
+ipython_config.py
+
+# PyEnv
+.python-version
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
 # VSCode
 .vscode/*
 !.vscode/settings.json
@@ -5,14 +30,9 @@
 !.vscode/launch.json
 !.vscode/extensions.json
 *.code-workspace
+
 # Local History for Visual Studio Code
 .history/
 
 # macOS
 .DS_Store
-
-# PyEnv
-.python-version
-
-# Jupyter Notebook
-.ipynb_checkpoints
