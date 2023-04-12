@@ -28,6 +28,10 @@ Submissions are evaluated on Root-Mean-Squared-Error (RMSE) between the logarit
 
 ## Quick install
 ```python -m venv venv```
+
 ```source /bin/activate/venv``` (for Windows)
+
 ```source venv/bin/activate``` (for macOS)
-```pip install -r requirements.txt````
+
+```pip install -r requirements.txt```
+
